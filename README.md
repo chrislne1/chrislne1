@@ -1,6 +1,3 @@
-I am a Computer Science student at York University who is passionate about designing and building efficient, scalable, and reliable applications with the aim to address real-world problems.
-
-
 ## Skills & Technologies
 
 ### Languages
